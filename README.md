@@ -2,9 +2,9 @@
 
 
 - 👋 Hi, I’m @suryapranesh4
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning blockchain web development
-- 💞️ I’m looking to collaborate on web3 dApps
+- 👀 Interested in full stack web development
+- 🌱 Currently exploring blockchain web development
+- 💞️ Looking to collaborate on web3 dApps
 - 📫 Following are the ways to reach me 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Surya_Pranesh_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Surya_Pranesh_)](https://twitter.com/Surya_Pranesh_) 
