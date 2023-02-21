@@ -20,5 +20,3 @@ You can click the Preview link to take a look at your changes.
 Hi I am Surya Pranesh Krishnan 😃 <br/>
 I am from Coimbatore, Tamil nadu and currently pursuing my Post Graduation degree from George Brown College, Toronto 🏫 <br/>
 I love to explore and learn about new things 👨🏻‍💻
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=grey&right_color=green)
